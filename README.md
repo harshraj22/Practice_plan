@@ -2,6 +2,7 @@
 This is to follow the practice plan.
 
 - [ ] Day 1 : Implementation + Binary Search
+           : Pending : Binary Sarch
 - [ ] Day 2 : Binary Sarch + Number Theory
 - [ ] Day 3 : Number Theory + Basic DP
 - [ ] Day 4 : DP + Basic Graph (DFS,Tree,Graph)
