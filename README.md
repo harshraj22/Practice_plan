@@ -3,26 +3,6 @@
 This is to follow the practice plan.
 
   
-
-- [ ] Day 1 : Implementation + Binary Search
-
-   - Pending : Binary Sarch
-
-- [ ] Day 2 : Binary Sarch + Number Theory
-
-   - Pending : Number Theory
-
-   - Compeleted : One Short Contest
-
-- [ ] Day 3 : Number Theory + Basic DP
-   - Pending : Number Theory
-   - Pending : Short contest
-   - Completed : Basic DP (Practice Questions)
-- [ ] Day 4 : DP + Basic Graph (DFS,Tree,Graph)
-   - Pending : DP
-   - 
-- [ ] Day 4 : DP + Graph Algo (Extend time if needed)
-
-- [ ] Day 5 : DP + Graph + Segment Tree
-
-- [ ] Day 6 : Union Find + KMP + (Persistent Segment Tree if possible)
+- phase 1: binary search, sweep line, ternary search, basic number theory, dijkstra + bellman, floyd warshall, mst, topo sort, sliding window, two pointer, dsu,
+- phase 2: basic dp, segment tree, number theory, kmp, ~~bridges & articulation pt~~, tries, lazy propagation on seg tree
+- phase 3: bitmask dp, problems on expection value + dp, .....
