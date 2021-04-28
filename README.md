@@ -13,3 +13,6 @@ This is to follow the practice plan.
 - [ ] to 
 - [ ] experiment 
 - [ ] with
+- [ ] adding
+- [ ] more
+- [ ] checkboxes
