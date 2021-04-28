@@ -10,6 +10,8 @@ This is to follow the practice plan.
 
 - [ ] some
 - [ ] checkboxes
+- [ ] with 
+- [ ] more
 - [ ] to 
 - [ ] experiment 
 - [ ] with
